@@ -29,3 +29,9 @@ td, th {
   padding: 8px;
    width: 50%;
  
+	h5 {
+  color: black;
+  text-align: center;
+  font-family: Georgia;
+}
+
