@@ -30,9 +30,9 @@ td, th {
    width: 50%;
  
 	h5 {
-  color: black;
-  text-align: center;
-  font-family: Georgia;
-	font-size:30px;
+  border: 1px solid;
+  text-align: left;
+  padding: 8px;
+   width: 50%;
 }
 
